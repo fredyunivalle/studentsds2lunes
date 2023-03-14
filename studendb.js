@@ -3,7 +3,11 @@ const datastudent = {
 "1943758-2711":"", 
 "2042055-3743":"",
 "1743882-2711":"",
+<<<<<<< HEAD
 "2024092-3743":{"nombre" : "Maurcio" , "semestre": 7 , "soltero":false , "gustos" : ['Jugar','Programar','Socializar']},
+=======
+"2024092-3743":"",
+>>>>>>> parent of eee3acb (Merge pull request #2 from Odzen/juanse_feature)
 "1827486-2711":"",
 "1862078-2711":"",
 "1940322-3743":"",
@@ -19,7 +23,11 @@ const datastudent = {
 "1827625-2711":"",
 "1941008-3743":"",
 "2060561-2711":"",
+<<<<<<< HEAD
 "2041981-2711":"",
+=======
+"2041981-2711":{"nombre" : "Santiago" , "semestre": 6 , "soltero":false , "gustos" : ['entrenar']},
+>>>>>>> parent of eee3acb (Merge pull request #2 from Odzen/juanse_feature)
 "1943214-3743":"",
 "1969023-2711":"",
 "1744936-3743":"",
