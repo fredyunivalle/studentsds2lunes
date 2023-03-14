@@ -23,12 +23,6 @@ const datastudent = {
     '2060719-2711': '',
     '1827625-2711': '',
     '1941008-3743': '',
-    '2060561-2711': {
-        nombre: 'Gustavo',
-        semestre: 6,
-        soltero: true,
-        gustos: ['Viajar'],
-    },
     '2041981-2711': {
         nombre: 'Santiago',
         semestre: 6,
