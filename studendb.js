@@ -30,7 +30,12 @@ const datastudent = {
         soltero: false,
         gustos: ['entrenar'],
     },
-    '1943214-3743': '',
+    '2027212-2711': {
+        nombre: 'Alejandro',
+        semestre:6,
+        soltero: false,
+        gustos: ['Futbol'],
+    },
     '1969023-2711': '',
     '1744936-3743': {
         nombre: 'Juan Sebastian Velasquez',
