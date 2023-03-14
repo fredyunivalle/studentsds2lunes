@@ -5,7 +5,12 @@ const datastudent = {
         soltero: false,
         gustos: ['comer', 'bailar', 'viajar'],
     },
-    '1943758-2711': '',
+    '1943758-2711':  {
+        nombre: 'Victor',
+        semestre: 6,
+        soltero: false,
+        gustos: ['viajar','dormir'],
+    },
     '2042055-3743': '',
     '1743882-2711': '',
     '2024092-3743': '',
@@ -38,6 +43,7 @@ const datastudent = {
         soltero: false,
         gustos: ['dance', 'soccer', 'travel'],
     },
+
 }
 
 module.exports = datastudent
