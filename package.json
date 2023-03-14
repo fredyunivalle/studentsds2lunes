@@ -1,18 +1,18 @@
 {
-  "name": "apistudents",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "format:check": "prettier --check ."
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "prettier": "^2.8.4"
-  }
+    "name": "apistudents",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "format:check": "prettier --check ."
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "prettier": "^2.8.4"
+    }
 }
