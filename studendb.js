@@ -15,7 +15,12 @@ const datastudent = {
     '1910252-3743': '',
     '1941378-3743': '',
     '1941923-3743': '',
-    '1942789-3743': '',
+    '1942789-3743': {
+        nombre: 'David Alberto Guzmán',
+        semestre: 7,
+        soltero: false,
+        gustos: ['halo CE', 'programming', 'soccer', 'cars'],
+    },
     '1841270-3743': '',
     '1927020-3743': '',
     '1969041-2711': '',
