@@ -9,7 +9,7 @@ const datastudent = {
         nombre: 'Victor',
         semestre: 6,
         soltero: false,
-        gustos: ['viajar'],
+        gustos: ['viajar','dormir'],
     },
     '2042055-3743': '',
     '1743882-2711': '',
