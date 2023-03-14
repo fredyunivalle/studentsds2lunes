@@ -18,7 +18,7 @@ const datastudent = {
     '1942789-3743': {
         nombre: 'David Alberto Guzmán',
         semestre: 7,
-        soltero: false,
+        soltero: true,
         gustos: ['halo CE', 'programming', 'soccer', 'cars'],
     },
     '1841270-3743': '',
